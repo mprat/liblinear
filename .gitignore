@@ -1,3 +1,4 @@
 *.o
+*.a
 *.mexmaci64
 *.mex64
